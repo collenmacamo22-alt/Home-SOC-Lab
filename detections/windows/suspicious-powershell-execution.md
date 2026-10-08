@@ -33,7 +33,7 @@ NOT Process_Command_Line="*splunk-powershell.exe*"
 PowerShell activity showing discovery commands and/or bypass-style execution from the Windows offense framework.
 
 ## Tuning / Noise Reduction Notes
-Filter Splunk Universal Forwarder noise (for example `splunk-powershell.exe`) and known admin tooling. Tune for expected maintenance windows where appropriate.
+Filter Splunk Universal Forwarder noise (for example `Splunk-powershell.exe`) and known admin tooling. Tune for expected maintenance windows where appropriate.
 
 ## MITRE ATT&CK Mapping
 - **Technique(s):** T1059.001
