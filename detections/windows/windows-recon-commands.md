@@ -30,7 +30,7 @@ index=windows EventCode=4688 ("whoami" OR "ipconfig" OR "systeminfo" OR "tasklis
 Reconnaissance commands executed locally on the Windows host.
 
 ## Tuning / Noise Reduction Notes
-Filter Splunk Universal Forwarder noise (for example `splunk-powershell.exe`) and known admin tooling. Tune for expected maintenance windows where appropriate.
+Filter Splunk Universal Forwarder noise (for example `Splunk-powershell.exe`) and known admin tooling. Tune for expected maintenance windows where appropriate.
 
 ## MITRE ATT&CK Mapping
 - **Technique(s):** T1082 / T1016 / T1033 / T1087
