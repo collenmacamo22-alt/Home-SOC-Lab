@@ -4,8 +4,8 @@
 A controlled Windows offense pack generated multiple suspicious behaviors including PowerShell, LOLBins, service creation, scheduled task creation, and local account activity.
 
 ## Environment
-- **Host:** Windows Server 2025 (192.168.101.133)
-- **Relevant IPs:** Windows: 192.168.101.133
+- **Host:** Windows Server 2025 (192.168.1.102)
+- **Relevant IPs:** Windows: 192.168.1.102
 - **SIEM:** Splunk Enterprise
 
 ## Data Source
