@@ -12,7 +12,7 @@ Detect creation of a scheduled task used as a persistence or execution mechanism
 - **Lab Scope:** Controlled VMware lab
 
 ## Data Source
-- **Primary Source:** WinEventLog
+- **Primary source:** WinEventLog
 - **Relevant Telemetry:** 4688 process creation and task-related logs
 
 ## Attack Simulation Reference
