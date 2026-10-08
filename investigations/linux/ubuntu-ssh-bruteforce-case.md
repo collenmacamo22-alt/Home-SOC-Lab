@@ -4,8 +4,8 @@
 Repeated SSH authentication failures and invalid-user attempts were generated from the Kali host against the Ubuntu server to validate Linux authentication abuse detections.
 
 ## Environment
-- **Host:** Ubuntu Server (192.168.101.139)
-- **Relevant IPs:** Kali: 192.168.101.128, Ubuntu: 192.168.101.139
+- **Host:** Ubuntu Server (192.168.1.104)
+- **Relevant IPs:** Kali: 192.168.1.103, Ubuntu: 192.168.1.104
 - **SIEM:** Splunk Enterprise
 
 ## Data Source
