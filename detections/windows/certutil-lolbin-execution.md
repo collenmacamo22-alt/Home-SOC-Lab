@@ -3,7 +3,7 @@
 ## Detection Title
 **Certutil LOLBin Execution**
 
-## Objective
+## objectives
 Detect use of certutil.exe as a living-off-the-land binary.
 
 ## Environment
