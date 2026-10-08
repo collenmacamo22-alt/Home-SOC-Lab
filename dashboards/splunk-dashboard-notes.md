@@ -10,7 +10,7 @@
 index=windows | stats count by source EventCode
 ```
 
-### 2) Failed Logons / Linux SSH Failures
+### 2) FaileD Logons / Linux SSH Failures
 **Purpose:** Authentication abuse visibility
 
 **SPL**
