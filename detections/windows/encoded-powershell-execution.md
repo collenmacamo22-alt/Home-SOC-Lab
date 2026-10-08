@@ -15,7 +15,7 @@ Detect use of Base64-encoded PowerShell commands often used to obfuscate intent.
 - **Primary Source:** WinEventLog
 - **Relevant Telemetry:** 4688, 4104
 
-## Attack Simulation Reference
+## Attack simulation Reference
 - **Script:** `attack-simulation/windows/windows_offense_pack.ps1`
 - **Scenario:** `EncodedPowerShell
 
