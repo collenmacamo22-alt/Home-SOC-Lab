@@ -2,7 +2,7 @@
 
 ## Host
 - **Hostname:** ubuntu
-- **IP:** `192.168.101.139`
+- **IP:** `192.168.1.104`
 
 ## Important Log Sources
 - `/var/log/auth.log`
@@ -17,14 +17,14 @@
 - Shell execution visibility (where available)
 
 ## Key Linux Behaviors Observed
-- Failed password attempts from Kali (`192.168.101.128`)
+- Failed password attempts from Kali (`192.168.1.103`)
 - Invalid SSH usernames
 - SSH connection attempts and closures
 - Authentication failure bursts
 
 ## Validation SPL
 ```spl
-index=* source="/var/log/auth.log" "192.168.101.128"
+index=* source="/var/log/auth.log" "192.168.1.103"
 | table _time host _raw
 | sort - _time
 ```
