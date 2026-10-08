@@ -43,7 +43,7 @@ Validate the user context, parent process, command line, and related host activi
 2. Review parent/child process or auth chain.
 3. Identify account used and command / behavior observed.
 4. Pivot to surrounding events ±15 minutes.
-5. Determine if the activity was expected administrative behavior or suspicious lab-generated behavior.
+5. Determine if the activity was expected administrative behavior or suspicious Lab-generated behavior.
 
 ## Screenshot 
 ### Screenshot 1 — Detection Search Results
