@@ -2,7 +2,7 @@
 
 ## Host
 - **Hostname:** ubuntu
-- **IP:** `192.168.1.104`
+- **IP:** `192.168.1.108`
 
 ## Important Log Sources
 - `/var/log/auth.log`
