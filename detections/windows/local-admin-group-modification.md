@@ -46,7 +46,7 @@ Validate the user context, parent process, command line, and related host activi
 5. Determine if the activity was expected administrative behavior or suspicious lab-generated behavior.
 
 ## Screenshot
-### Screenshot 1 — Detection Search Results
+### Screenshot 1 — Detection search Results
 ![Local Administrators Group Modification Detection](../../screenshots/windows/local-admin-group-modification-detection.png)
 
 ### Screenshot 2 — Event Details
