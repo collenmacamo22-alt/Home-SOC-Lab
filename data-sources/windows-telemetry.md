@@ -2,7 +2,7 @@
 
 ## Host
 - **Hostname:** WS-25
-- **IP:** `192.168.101.133`
+- **IP:** `192.168.1.102`
 
 ## Log Sources
 - `WinEventLog:Application`
