@@ -1,8 +1,8 @@
 #!/bin/bash
 # Ubuntu Offense Simulation Pack (run from Kali)
-# Target: Ubuntu Server 192.168.101.139
+# Target: Ubuntu Server 192.168.1.104
 
-TARGET="192.168.101.139"
+TARGET="192.168.1.104"
 
 run_ssh_bruteforce() {
   USERS=("ubuntu" "admin" "testuser" "root" "backup" "oracle")
