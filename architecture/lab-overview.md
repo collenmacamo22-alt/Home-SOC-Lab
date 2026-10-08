@@ -13,10 +13,10 @@ This lab was built to simulate a small SOC environment using Splunk Enterprise a
 
 ## Lab Systems
 
-- **SIEM:** Splunk Enterprise on RHEL
-- **Windows Victim:** Windows Server 2025 (`192.168.101.133`)
-- **Linux Victim:** Ubuntu Server (`192.168.101.139`)
-- **Attacker:** Kali Linux (`192.168.101.128`)
+- **SIEM:** Splunk Enterprise on Linux
+- **Windows Victim:** Windows Server 2025 (`192.168.1,102`)
+- **Linux Victim:** Ubuntu Server (`192.168.1.103`)
+- **Attacker:** Kali Linux (`192.168.1.104`)
 
 ---
 
