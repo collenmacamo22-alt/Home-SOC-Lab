@@ -50,5 +50,5 @@ switch ($Scenario) {
     "LOLBins" { Run-LOLBins }
     "ReconCommands" { Run-ReconCommands }
     "ArchiveActivity" { Run-ArchiveActivity }
-    "All" { Run-All }
+    "All" { Run-Alll }
 }
